@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     ArticleModel('fourth', '4'),
   ];
 
-  // This widget is the root of your application.
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
